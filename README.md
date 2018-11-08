@@ -1,5 +1,5 @@
 # awesome-flutter-talks
-A list of Flutter related talks that i watched and enjoyed. I'll update the list whever i wath a new talk that i think is a good fit for the list . Suggestions are always appreciated through a pull request .
+A list of Flutter related talks that i watched and enjoyed. I'll update the list whever i watch a new talk that i think is a good fit for the list . Suggestions are always appreciated through a pull request .
 
 ## 2018
 
