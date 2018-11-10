@@ -12,6 +12,10 @@ A list of Flutter related talks that i watched and enjoyed. I'll update the list
 * [**Brian Egan - Keep it Simple, State: Architecture for Flutter Apps**](https://youtu.be/zKXz3pUkw9A) `30:00`
 * [**Faisal Abid - From Zero to One – Building a real world Flutter Application**](https://youtu.be/jF0kD7lxTTw) `23:32`
 * [**Eugenio Marletti & Sebastiano Poggi - Portable Material: Flutter physical models**](https://youtu.be/R21kDN1quOI) ` 41:08`
+* [**Thomas Burkhart - Flutter and RxVMS pattern**](https://goo.gl/aWaVaA) `53:13`
+* [**Andrea Bizzotto - Flutter State Management**](https://goo.gl/bc3LLN) `36:24`
+
+
 
 
 ## 2017
