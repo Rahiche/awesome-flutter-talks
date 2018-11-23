@@ -30,7 +30,7 @@ Please :star: this repo and share it with others
 * [**David DeRemer & Seth Ladd - In Record Time: How we Quickly Built a Serverless app with Firebase and Flutter**](https://youtu.be/prlK_QL_qOA) `28:04`
 * [**Emily Fortuna & Emily Shack - Single Codebase, Two Apps with Flutter and Firebase**](https://youtu.be/w2TcYP8qiRI) ` 33:48`
 * [**Eric Seidel - Flutter: How we're building a UI framework for tomorrow at Google**](https://youtu.be/VUiVkDpikDI) `31:42`
-* [**Pascal Welsch - Architecting the Reactive Flutter App**](https://youtu.be/M8jGSkACneE) `31:35`
+* [**Gavin Doughtie - Architecting the Reactive Flutter App**](https://youtu.be/n_5JULTrstU) `28:43`
 
 
 ## 2016
