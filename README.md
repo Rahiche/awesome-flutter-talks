@@ -19,7 +19,8 @@ Please :star: this repo and share it with others
 * [**Eugenio Marletti & Sebastiano Poggi - Portable Material: Flutter physical models**](https://youtu.be/R21kDN1quOI) ` 41:08`
 * [**Thomas Burkhart - Flutter and RxVMS pattern**](https://goo.gl/aWaVaA) `53:13`
 * [**Andrea Bizzotto - Flutter State Management**](https://goo.gl/bc3LLN) `36:24`
-
+* [**Pascal Welsch - Heavy lift work in Flutter get started with Isolates**](https://youtu.be/M8jGSkACneE) `36:24`
+* [**Michael Thomsen - A fresh perspective on multi-platform UI**](https://youtu.be/sl5TaN7EwjQ) `42:02`
 
 
 
@@ -29,7 +30,7 @@ Please :star: this repo and share it with others
 * [**David DeRemer & Seth Ladd - In Record Time: How we Quickly Built a Serverless app with Firebase and Flutter**](https://youtu.be/prlK_QL_qOA) `28:04`
 * [**Emily Fortuna & Emily Shack - Single Codebase, Two Apps with Flutter and Firebase**](https://youtu.be/w2TcYP8qiRI) ` 33:48`
 * [**Eric Seidel - Flutter: How we're building a UI framework for tomorrow at Google**](https://youtu.be/VUiVkDpikDI) `31:42`
-* [**Gavin Doughtie - Architecting the Reactive Flutter App**](https://youtu.be/n_5JULTrstU) `28:43`
+* [**Pascal Welsch - Architecting the Reactive Flutter App**](https://youtu.be/M8jGSkACneE) `31:35`
 
 
 ## 2016
