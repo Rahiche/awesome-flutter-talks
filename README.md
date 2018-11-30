@@ -21,6 +21,8 @@ Please :star: this repo and share it with others
 * [**Andrea Bizzotto - Flutter State Management**](https://goo.gl/bc3LLN) `36:24`
 * [**Pascal Welsch - Heavy lift work in Flutter get started with Isolates**](https://youtu.be/M8jGSkACneE) `36:24`
 * [**Michael Thomsen - A fresh perspective on multi-platform UI**](https://youtu.be/sl5TaN7EwjQ) `42:02`
+* [**Rafal Wachol - built_value & built_collection**](https://skillsmatter.com/skillscasts/12266-flutterldn-october) `36:16`
+* [**Scott Stoll & Simon Lightfoot - Flutter Makes Wicked Animations Easy!**](https://skillsmatter.com/skillscasts/13018-flutter-makes-wicked-animations-easy) `1:02:11`
 * [**Iiro Krankka - Flutter Best of Both Worlds**](https://skillsmatter.com/skillscasts/12533-flutterldn) `27:26`
 * [**Swav Kulinski - Flutter CI**](https://skillsmatter.com/skillscasts/12912-flutter-ci) `33:51`
 
