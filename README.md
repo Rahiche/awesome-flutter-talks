@@ -35,6 +35,12 @@ Please :star: this repo and share it with others
 * [**Emily Fortuna & Emily Shack - Single Codebase, Two Apps with Flutter and Firebase**](https://youtu.be/w2TcYP8qiRI) ` 33:48`
 * [**Eric Seidel - Flutter: How we're building a UI framework for tomorrow at Google**](https://youtu.be/VUiVkDpikDI) `31:42`
 * [**Gavin Doughtie - Architecting the Reactive Flutter App**](https://youtu.be/n_5JULTrstU) `28:43`
+* [**Fiona Yeung and David Yang - Prototyping to Production: Bridging the Gap with a Common Tool**](https://youtu.be/BJCqRpvvTrM) `31:41`
+* [**Kasper Lund - Flutter: The Best Way to Build for Mobile?**](https://youtu.be/1BXg4wfB9pA) `44:18`
+* [**Sergi Martinez - What is Flutter and why should I care**](https://youtu.be/Nm_mdptybf0) `27:55`
+* [**Wm Leler - What's Awesome about Flutter**](https://youtu.be/n3FLHWF7UgM) `48:39`
+* [**Roberto Orgiu - How I met Flutter**](https://youtu.be/Xf1oI2boNIo) `39:44`
+* [**Tim Messerschmidt - Hands on Flutter**](https://youtu.be/0IY6J5baAj8) `32:06`
 
 
 ## 2016
