@@ -6,6 +6,9 @@ A list of Flutter related talks that i watched and enjoyed. I'll update the list
 Please :star: this repo and share it with others
 
 
+# Flutter 1.0 
+* [**The Flutter Team - Flutter Live - Flutter Announcements and Updates**](https://youtu.be/NQ5HVyqg1Qc)
+
 ## 2018
 
 * [**Matt Sullivan - Flutter in Action**](https://youtu.be/4LNMsYg76vg) `52:37`
