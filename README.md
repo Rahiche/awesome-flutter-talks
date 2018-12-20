@@ -29,6 +29,7 @@ Please :star: this repo and share it with others
 * [**Iiro Krankka - Flutter Best of Both Worlds**](https://skillsmatter.com/skillscasts/12533-flutterldn) `27:26`
 * [**Swav Kulinski - Flutter CI**](https://skillsmatter.com/skillscasts/12912-flutter-ci) `33:51`
 * [**Ifeoma Okereke - Flutter + ML Kit: Building smart cross-platform apps**](https://youtu.be/kIX7IbdCWWc?list=PLYioXtkIMlS9CMDDq3TcmxXsC455x6_XL) `32:17`
+* [**Muhammed Salih Güler - Animations in Flutter**](https://youtu.be/vzlZgaDEJjA) `36:47`
 
 
 ## 2017
