@@ -30,7 +30,6 @@ Please :star: this repo and share it with others
 * [**Swav Kulinski - Flutter CI**](https://skillsmatter.com/skillscasts/12912-flutter-ci) `33:51`
 * [**Ifeoma Okereke - Flutter + ML Kit: Building smart cross-platform apps**](https://youtu.be/kIX7IbdCWWc?list=PLYioXtkIMlS9CMDDq3TcmxXsC455x6_XL) `32:17`
 * [**Muhammed Salih Güler - Animations in Flutter**](https://youtu.be/vzlZgaDEJjA) `36:47`
-* [**Muhammed Salih Güler - Animations in Flutter**](https://youtu.be/vzlZgaDEJjA) `36:47`
 * [**Paulina Szklarska — Flutter — how to make a beautiful app in an hour?**](https://youtu.be/l2DYq-rUglg) `50:02`
 
 
