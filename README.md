@@ -11,6 +11,10 @@ Please :star: this repo and share it with others
 
 ## 2018
 
+* [**Didier Boelens - BLoC pattern - Practical Use Cases**](https://bit.ly/2FKBgJj) `45:18`
+
+## 2018
+
 * [**Matt Sullivan - Flutter in Action**](https://youtu.be/4LNMsYg76vg) `52:37`
 * [**Brian Egan & Filip Hracek - Practical Rx with Flutter**](https://youtu.be/7O1UO5rEpRc) ` 27:22`
 * [**Nitya Narasimhan - Get Animated with Flutter!**](https://youtu.be/rs9TtjPsV7Q) `42:02`
