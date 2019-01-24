@@ -11,6 +11,7 @@ Please :star: this repo and share it with others
 
 ## 2018
 
+* [**Rémi Rousselet - Widget Boilerplate Considered Harmful**](https://bit.ly/2DvAn5g) `37:43`
 * [**Didier Boelens - BLoC pattern - Practical Use Cases**](https://bit.ly/2FKBgJj) `45:18`
 
 ## 2018
