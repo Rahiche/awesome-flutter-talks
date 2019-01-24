@@ -9,7 +9,7 @@ Please :star: this repo and share it with others
 # Flutter 1.0 
 * [**The Flutter Team - Flutter Live - Flutter Announcements and Updates**](https://youtu.be/NQ5HVyqg1Qc)
 
-## 2018
+## 2019
 
 * [**Rémi Rousselet - Widget Boilerplate Considered Harmful**](https://bit.ly/2DvAn5g) `37:43`
 * [**Didier Boelens - BLoC pattern - Practical Use Cases**](https://bit.ly/2FKBgJj) `45:18`
