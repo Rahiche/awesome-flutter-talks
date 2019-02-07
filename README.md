@@ -13,6 +13,8 @@ Please :star: this repo and share it with others
 
 * [**Rémi Rousselet - Widget Boilerplate Considered Harmful**](https://bit.ly/2DvAn5g) `37:43`
 * [**Didier Boelens - BLoC pattern - Practical Use Cases**](https://bit.ly/2FKBgJj) `45:18`
+* [**Pavan Podila - Port of MobX to Dart & Flutter**](https://youtu.be/p0WJB5SN0g8) `22:13`
+
 
 ## 2018
 
