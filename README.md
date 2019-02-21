@@ -14,6 +14,8 @@ Please :star: this repo and share it with others
 * [**Rémi Rousselet - Widget Boilerplate Considered Harmful**](https://bit.ly/2DvAn5g) `37:43`
 * [**Didier Boelens - BLoC pattern - Practical Use Cases**](https://bit.ly/2FKBgJj) `45:18`
 * [**Pavan Podila - Port of MobX to Dart & Flutter**](https://youtu.be/p0WJB5SN0g8) `22:13`
+* [**Andri Jasinski - CI as Smooth as Flutter**](https://bit.ly/2SRlbso) `43:29`
+* [**Nic Ford & Steve Alexander - Flutter: An Approach to Architecture**](https://bit.ly/2EoqBCl) `01:09:57`
 
 
 ## 2018
