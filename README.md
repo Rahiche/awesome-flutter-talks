@@ -16,7 +16,7 @@ Please :star: this repo and share it with others
 * [**Pavan Podila - Port of MobX to Dart & Flutter**](https://youtu.be/p0WJB5SN0g8) `22:13`
 * [**Andri Jasinski - CI as Smooth as Flutter**](https://bit.ly/2SRlbso) `43:29`
 * [**Nic Ford & Steve Alexander - Flutter: An Approach to Architecture**](https://bit.ly/2EoqBCl) `01:09:57`
-
+* [**Muhammed Salih Güler - Animations in Flutter**](https://www.youtube.com/watch?v=jZZnc5qhrvg) `27:25`
 
 ## 2018
 
