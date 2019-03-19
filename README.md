@@ -19,6 +19,7 @@ Please :star: this repo and share it with others
 * [**Andri Jasinski - CI as Smooth as Flutter**](https://bit.ly/2SRlbso) `43:29` _FlutterLDN_
 * [**Nic Ford & Steve Alexander - Flutter: An Approach to Architecture**](https://bit.ly/2EoqBCl) `01:09:57` _FlutterLDN_
 * [**Muhammed Salih Güler - Animations in Flutter**](https://www.youtube.com/watch?v=jZZnc5qhrvg) `27:25`
+* [**Frederik Schweiger - Meaningful Motion - Animations in Flutter**](https://skillsmatter.com/skillscasts/13596-meaningful-motion-and-scoped-model#video) `27:20` _FlutterLDN_
 
 ## 2018
 
