@@ -1,6 +1,8 @@
 # Awesome Flutter Talks
 A list of Flutter related talks that i watched and enjoyed. I'll update the list whever i watch a new talk that i think is a good fit for the list . Suggestions are always appreciated through a pull request .
 
+# Important
+Watch the repo to get updates when i add new flutter Talks
 
 # Thank _You_!
 Please :star: this repo and share it with others
