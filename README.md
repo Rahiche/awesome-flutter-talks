@@ -13,7 +13,7 @@ Please :star: this repo and share it with others
 
 ## 2019
 
-* [**Frederik Schweiger - Meaningful Motion**](https://goo.gl/MGH6XA) `52:29` _FlutterLDN_
+* [**Frederik Schweiger - Meaningful Motion**](https://goo.gl/MGH6XA) `27:20` _FlutterLDN_
 * [**Brian Egan - Learn Scoped Model by building Scoped Model**](https://bit.ly/2CteiTU) `52:29` _FlutterLDN_
 * [**Rémi Rousselet - Widget Boilerplate Considered Harmful**](https://bit.ly/2DvAn5g) `37:43` _FlutterLDN_
 * [**Didier Boelens - BLoC pattern - Practical Use Cases**](https://bit.ly/2FKBgJj) `45:18` _FlutterLDN_
