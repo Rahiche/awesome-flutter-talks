@@ -12,7 +12,7 @@ Please :star: this repo and share it with others
 * [**The Flutter Team - Flutter Live - Flutter Announcements and Updates**](https://youtu.be/NQ5HVyqg1Qc)
 
 ## 2019
-
+* [**Emily Fortuna and Lara Martin - Flutter: Mobile Development for Busy People**](https://www.youtube.com/watch?v=55nwTtHcFis) `37:21`
 * [**Frederik Schweiger - Meaningful Motion**](https://goo.gl/MGH6XA) `27:20` _FlutterLDN_
 * [**Brian Egan - Learn Scoped Model by building Scoped Model**](https://bit.ly/2CteiTU) `52:29` _FlutterLDN_
 * [**Rémi Rousselet - Widget Boilerplate Considered Harmful**](https://bit.ly/2DvAn5g) `37:43` _FlutterLDN_
@@ -21,6 +21,8 @@ Please :star: this repo and share it with others
 * [**Andri Jasinski - CI as Smooth as Flutter**](https://bit.ly/2SRlbso) `43:29` _FlutterLDN_
 * [**Nic Ford & Steve Alexander - Flutter: An Approach to Architecture**](https://bit.ly/2EoqBCl) `01:09:57` _FlutterLDN_
 * [**Muhammed Salih Güler - Animations in Flutter**](https://www.youtube.com/watch?v=jZZnc5qhrvg) `27:25`
+
+
 
 ## 2018
 
