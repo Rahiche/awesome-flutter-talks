@@ -12,6 +12,8 @@ Please :star: this repo and share it with others
 * [**The Flutter Team - Flutter Live - Flutter Announcements and Updates**](https://youtu.be/NQ5HVyqg1Qc)
 
 ## 2019
+
+* [**Rémi Rousselet - The real reasons why you should care about Provider**](https://bit.ly/2ItquaK) `41:00` _FlutterLDN_
 * [**Emily Fortuna and Lara Martin - Flutter: Mobile Development for Busy People**](https://www.youtube.com/watch?v=55nwTtHcFis) `37:21`
 * [**Frederik Schweiger - Meaningful Motion**](https://goo.gl/MGH6XA) `27:20` _FlutterLDN_
 * [**Brian Egan - Learn Scoped Model by building Scoped Model**](https://bit.ly/2CteiTU) `52:29` _FlutterLDN_
