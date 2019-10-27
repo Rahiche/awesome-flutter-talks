@@ -23,7 +23,7 @@ Please :star: this repo and share it with others
 * [**Andri Jasinski - CI as Smooth as Flutter**](https://bit.ly/2SRlbso) `43:29` _FlutterLDN_
 * [**Nic Ford & Steve Alexander - Flutter: An Approach to Architecture**](https://bit.ly/2EoqBCl) `01:09:57` _FlutterLDN_
 * [**Muhammed Salih Güler - Animations in Flutter**](https://www.youtube.com/watch?v=jZZnc5qhrvg) `27:25`
-
+* [**Simon Lightfoot - Flutter for the Discerning Android Developer**](https://skillsmatter.com/skillscasts/14560-flutter-for-the-discerning-android-developer) `44:37`
 
 
 ## 2018
