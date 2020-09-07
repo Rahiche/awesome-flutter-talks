@@ -7,9 +7,39 @@ Watch the repo to get updates when i add new flutter Talks
 # Thank _You_!
 Please :star: this repo and share it with others
 
+## 2020
+
+* [**Flutter, what are Widgets, RenderObjects and Elements? - Norbert Kozsir | Flutter Europe**](https://www.youtube.com/watch?v=PnWxW21vDak) `44:06` _Flutter Europe_
+* [**Navigator and Routes and Transitions... Oh, My! - Simon Lightfoot | Flutter Europe**](https://www.youtube.com/watch?v=4CYTTW6PMoc&t=313s) `44:53` _Flutter Europe_
+* [**Apps for Everyone with Flutter - Lara Martin & Miguel Beltran | Flutter Europe**](https://www.youtube.com/watch?v=Ywgt3cRKyrs) `41:30` _Flutter Europe_
+* [**Bloc Library: Basics & Beyond - Felix Angelov | Flutter Europe**](https://www.youtube.com/watch?v=knMvKPKBzGE) `46:15` _Flutter Europe_
+* [**Implementing complex UI with Flutter - Marcin Szałek | Flutter Europe**](https://www.youtube.com/watch?v=FCyoHclCqc8) `44:25` _Flutter Europe_
+* [**Bring Flutter to web - Rihanna Kedir | Flutter Europe**](https://www.youtube.com/watch?v=EKOHizxc4bo) `44:04` _Flutter Europe_
+* [**Lessons learned building the Invoice Ninja Flutter app - Hillel Coren | Flutter Europe**](https://www.youtube.com/watch?v=G30K5wm7j_M) `41:34` _Flutter Europe_
+* [**Strategic Domain-Driven Design for Improving Flutter architecture - Majid Hajian | Flutter Europe**](https://www.youtube.com/watch?v=lGv6KV5u75k) `45:13` _Flutter Europe_
+* [**Flutter State Management with Provider Scott Stoll - Aug 25, 2020**](https://www.youtube.com/watch?v=d7qWQnvQIfk) `1:17:14` _GDG Capital Region_
+* [**Flutter Day: Responsive Designs in Flutter with Nash Ramdial**](https://www.youtube.com/watch?v=47e2K8MSZgY) `35:12` _GDG Jeddah_
+* [**Flutter Day: Flutter in Big Applications with Tomek Polanski**](https://www.youtube.com/watch?v=TVyTXDecFfM) `47:36` _GDG Jeddah_
+* [**Flutter Quiz League - Day 05 | Nawal Alhamwi- More Than Just, Widgets**](https://www.youtube.com/watch?v=GcJ7TADWYbs) `51:14` _Flutter Karachi_
+* [**Krzysztof Sroka - Fluttering at 60 FPS - Flutter Warsaw #10**](https://www.youtube.com/watch?v=10rDXlp1E9k) `53:57` _Flutter Warsaw_
+* [**Localisation in Flutter - Suesi Tran**](https://www.youtube.com/watch?v=FLMHc0aBISM) `24:42` _Google Developers Space, Singapore_
+* [**CI / CD in Flutter | Codemagic | Flutter Stream Day Season 1 | Martin Jeret**](https://www.youtube.com/watch?v=tp1TFm-rO8U) `36:47` _MTECHVIRAL_
+* [**Flutter, Why it's the Right Choice for Business - Ohio DevFest 2019 | Scott Stoll**](https://www.youtube.com/watch?v=t9ZydvYvLZ8) `49:14` _
+GDG Cincinnati_
+* [**Muhammed Salih Güler: Making the most out of your Flutter development**](https://www.youtube.com/watch?v=THc2IAhfXNU) `40:47` _Flutter Munich_
+* [**Simon Lightfoot: Declarative Navigation in Flutter [Flutter OnAir: Summer Talks]**](https://www.youtube.com/watch?v=Y6kh5UonEZ0) `1:00:21` _GUG.cz_
+* [**Filip Hráček, Jose Alba Aguado, Simon Lightfoot: Q&A [Flutter OnAir: Summer Talks]**](https://www.youtube.com/watch?v=rVT8Tgag_Ok) `52:31` _GUG.cz_
+* [**DC Flutter Jun, 2020: Firebase Cloud Functions | Andrea Bizzotto**](https://www.youtube.com/watch?v=9oI4gu91PHA) `1:03:58` _Dev Community_
+* [**DC Flutter: Aug 2020: Full Stack Flutter Series: OAuth**](https://www.youtube.com/watch?v=d029961H5mQ) `1:05:24` _Dev Community_
+* [**DC Flutter Feb, 2020: You say testing, I say Codemagic! | Jorge Coca && Felix Angelov**](https://www.youtube.com/watch?v=ac1WZluQVwU) `1:41:26` _Dev Community_
+* [**Albertus Angga: Understanding Flex Layout in Flutter with Flutter Layout Explorer**](https://www.youtube.com/watch?v=fJnOhdL58pE) `35:27` _Flutter Jakarta_
+* [**Taking Flight with VelocityX - Pawan Kumar (Flutter Week)**](https://www.youtube.com/watch?v=v1GmQZTBRaM) `50:52` _Flutter Week by Flutter France_
+* [**An Inside Look at Flutter for Web, by Kevin Moore**](https://www.youtube.com/watch?v=JClFHn-jQ3M) `41:15` _Flutter NYC_
+
 
 # Flutter 1.0 
 * [**The Flutter Team - Flutter Live - Flutter Announcements and Updates**](https://youtu.be/NQ5HVyqg1Qc)
+
 
 ## 2019
 
@@ -24,6 +54,10 @@ Please :star: this repo and share it with others
 * [**Nic Ford & Steve Alexander - Flutter: An Approach to Architecture**](https://bit.ly/2EoqBCl) `01:09:57` _FlutterLDN_
 * [**Muhammed Salih Güler - Animations in Flutter**](https://www.youtube.com/watch?v=jZZnc5qhrvg) `27:25`
 * [**Simon Lightfoot - Flutter for the Discerning Android Developer**](https://skillsmatter.com/skillscasts/14560-flutter-for-the-discerning-android-developer) `44:37`
+* [**Flutter Platform Channels @ Cross-platformxWRO #3 Meetup | Krzysztof Sroka**](https://www.youtube.com/watch?v=OUVt9HBLvio) `39:07` _Callstack Engineers_
+* [**Rona Kilmer: Flutter for Web and Other News in the Flutter and Dart Ecosystem**](https://www.youtube.com/watch?v=wB3ZOxkUg8U) `56:41` _GDG Boulder_
+* [**Maksim Lin - Real world Flutter**](https://www.youtube.com/watch?v=_baD-a40LSI) `26:49` _GDG Melbourne_
+* [**Become a Pro Flutter Developer | Pawan Kumar & Sayak Paul | DevFest Kolkata 2019**](https://www.youtube.com/watch?v=gpNVoXVWIq8) `34:42` _GDG Kolkata_
 
 
 ## 2018
@@ -48,6 +82,8 @@ Please :star: this repo and share it with others
 * [**Ifeoma Okereke - Flutter + ML Kit: Building smart cross-platform apps**](https://youtu.be/kIX7IbdCWWc?list=PLYioXtkIMlS9CMDDq3TcmxXsC455x6_XL) `32:17`
 * [**Muhammed Salih Güler - Animations in Flutter**](https://youtu.be/vzlZgaDEJjA) `36:47`
 * [**Paulina Szklarska — Flutter — how to make a beautiful app in an hour?**](https://youtu.be/l2DYq-rUglg) `50:02`
+* [**Lessons Learned from Writing Flutter Apps - Matt Sullivan - Flutter LDN**](https://www.youtube.com/watch?v=9xM0FzX7KVs) `49:46` _FlutterLDN_
+* [**#DevFestAhm - Reactive Architecture for Flutter by Burhanuddin Rashid - GDG Ahmedabad DevFest 2018**](https://www.youtube.com/watch?v=rgf_PAS0L10) `48:45` _GDG Ahmedabad_
 
 
 ## 2017
@@ -58,9 +94,9 @@ Please :star: this repo and share it with others
 * [**Eric Seidel - Flutter: How we're building a UI framework for tomorrow at Google**](https://youtu.be/VUiVkDpikDI) `31:42`
 * [**Gavin Doughtie - Architecting the Reactive Flutter App**](https://youtu.be/n_5JULTrstU) `28:43`
 * [**Fiona Yeung and David Yang - Prototyping to Production: Bridging the Gap with a Common Tool**](https://youtu.be/BJCqRpvvTrM) `31:41`
-* [**Kasper Lund - Flutter: The Best Way to Build for Mobile?**](https://youtu.be/1BXg4wfB9pA) `44:18`
-* [**Sergi Martinez - What is Flutter and why should I care**](https://youtu.be/Nm_mdptybf0) `27:55`
-* [**Wm Leler - What's Awesome about Flutter**](https://youtu.be/n3FLHWF7UgM) `48:39`
+* [**Kasper Lund - Flutter: The Best Way to Build for Mobile?**](https://youtu.be/1BXg4wfB9pA) `44:18` _GOTO Conferences_
+* [**Sergi Martinez - What is Flutter and why should I care**](https://youtu.be/Nm_mdptybf0) `27:55` _GDG Hamburg_
+* [**Wm Leler - What's Awesome about Flutter**](https://youtu.be/n3FLHWF7UgM) `48:39` _code.talks (ehem. Developer Conference)_
 * [**Roberto Orgiu - How I met Flutter**](https://youtu.be/Xf1oI2boNIo) `39:44`
 * [**Tim Messerschmidt - Hands on Flutter**](https://youtu.be/0IY6J5baAj8) `32:06`
 
@@ -75,7 +111,19 @@ Please :star: this repo and share it with others
 
 ## 2015
 
-* [Sky: An Experiment Writing Dart for Mobile (Dart Developer Summit 2015)](https://www.youtube.com/watch?v=PnIWl33YMwA) `27:18`
+* [**Sky: An Experiment Writing Dart for Mobile (Dart Developer Summit 2015)**](https://www.youtube.com/watch?v=PnIWl33YMwA) `27:18` _Google Developers_
 
 
+## 2013
 
+* [**Dart: HTML of the Future, Today! - Google I/O 2013 | Emily Fortuna && Sigmund Cherem **](https://www.youtube.com/watch?v=euCNWhs7ivQ) `41:12` _Google Developers_
+
+
+## 2012
+
+* [**Google I/O 101: Introduction to Dart with Seth Ladd**](https://www.youtube.com/watch?v=vT1KmTQ-1Os) `37:20` _Google Developers_
+
+
+## 2011
+
+* [**A Quick Tour of Dart | Gilad Bracha**](https://www.youtube.com/watch?v=-2BWoYA3iHY) `1:22:31` _Stanford_
