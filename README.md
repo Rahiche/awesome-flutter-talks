@@ -35,6 +35,9 @@ GDG Cincinnati_
 * [**Albertus Angga: Understanding Flex Layout in Flutter with Flutter Layout Explorer**](https://www.youtube.com/watch?v=fJnOhdL58pE) `35:27` _Flutter Jakarta_
 * [**Taking Flight with VelocityX - Pawan Kumar (Flutter Week)**](https://www.youtube.com/watch?v=v1GmQZTBRaM) `50:52` _Flutter Week by Flutter France_
 * [**An Inside Look at Flutter for Web, by Kevin Moore**](https://www.youtube.com/watch?v=JClFHn-jQ3M) `41:15` _Flutter NYC_
+* [**Accessibility in Flutter|Lara Martín & Miguel Beltran**](https://skillsmatter.com/skillscasts/14850-accessibility-in-flutter) `39:10` _Skills Matter_
+* [**Rody Davis: Building Adaptive UI/UX in Flutter**](https://www.youtube.com/watch?v=P1B52fRGjbE) `36:10` _Flutter LDN_
+* [**Katarina Sheremet: The sharp Corners of BLoC**](https://www.youtube.com/watch?v=QtlK1E6X5PQ) `19:12` _FlutterLDN_
 
 
 # Flutter 1.0 
@@ -58,6 +61,8 @@ GDG Cincinnati_
 * [**Rona Kilmer: Flutter for Web and Other News in the Flutter and Dart Ecosystem**](https://www.youtube.com/watch?v=wB3ZOxkUg8U) `56:41` _GDG Boulder_
 * [**Maksim Lin - Real world Flutter**](https://www.youtube.com/watch?v=_baD-a40LSI) `26:49` _GDG Melbourne_
 * [**Become a Pro Flutter Developer | Pawan Kumar & Sayak Paul | DevFest Kolkata 2019**](https://www.youtube.com/watch?v=gpNVoXVWIq8) `34:42` _GDG Kolkata_
+* [**Amr Yousef: Implementing Clean Architecture in Flutter using BLoC**](https://www.youtube.com/watch?v=OaP2zedthLk) `32:39` _FlutterLDN_
+* [**Tomek Polanski, "True Effort Reusability" - FlutterLDN Meetup May 2019**](https://www.youtube.com/watch?v=3JCVMzyAP5U) `30:42` _FlutterLDn_
 
 
 ## 2018
@@ -84,6 +89,7 @@ GDG Cincinnati_
 * [**Paulina Szklarska — Flutter — how to make a beautiful app in an hour?**](https://youtu.be/l2DYq-rUglg) `50:02`
 * [**Lessons Learned from Writing Flutter Apps - Matt Sullivan - Flutter LDN**](https://www.youtube.com/watch?v=9xM0FzX7KVs) `49:46` _FlutterLDN_
 * [**#DevFestAhm - Reactive Architecture for Flutter by Burhanuddin Rashid - GDG Ahmedabad DevFest 2018**](https://www.youtube.com/watch?v=rgf_PAS0L10) `48:45` _GDG Ahmedabad_
+* [**DartConf 2018: Day 1 Livestream**](https://www.youtube.com/watch?v=Sk9ZMIQDpUg) `5:51:21` _Google Developers_
 
 
 ## 2017
@@ -116,14 +122,17 @@ GDG Cincinnati_
 
 ## 2013
 
-* [**Dart: HTML of the Future, Today! - Google I/O 2013 | Emily Fortuna && Sigmund Cherem **](https://www.youtube.com/watch?v=euCNWhs7ivQ) `41:12` _Google Developers_
+* [**Dart: HTML of the Future, Today! - Google I/O 2013 | Emily Fortuna && Sigmund Cherem**](https://www.youtube.com/watch?v=euCNWhs7ivQ) `41:12` _Google Developers_
+* [**An introduction to Dart**](https://www.youtube.com/watch?v=KajbC6TzcTc) `36:00` _Google Developers_
 
 
 ## 2012
 
 * [**Google I/O 101: Introduction to Dart with Seth Ladd**](https://www.youtube.com/watch?v=vT1KmTQ-1Os) `37:20` _Google Developers_
-
+* [**GOTO 2012 • Translating DART to Efficient JavaScript • Kasper Lund**](https://www.youtube.com/watch?v=GwBb_nqQLuc) `57:57` _GOTO Conferences_
+* [**GOTO 2012 • Your First Look at the Dart Editor • Jaime Wren**](https://www.youtube.com/watch?v=1Nr2lkB7MHs) `13:00` _GOTO Conferences_
 
 ## 2011
 
 * [**A Quick Tour of Dart | Gilad Bracha**](https://www.youtube.com/watch?v=-2BWoYA3iHY) `1:22:31` _Stanford_
+* [**GOTO 2011 • Slides from the Google Dart Presentation • Kresten Krab Thorup**](https://www.youtube.com/watch?v=nqb-k9upqZ4&t=44s) `19:11` _GOTO Conferences_
