@@ -38,6 +38,8 @@ GDG Cincinnati_
 * [**Accessibility in Flutter|Lara Martín & Miguel Beltran**](https://skillsmatter.com/skillscasts/14850-accessibility-in-flutter) `39:10` _Skills Matter_
 * [**Rody Davis: Building Adaptive UI/UX in Flutter**](https://www.youtube.com/watch?v=P1B52fRGjbE) `36:10` _Flutter LDN_
 * [**Katarina Sheremet: The sharp Corners of BLoC**](https://www.youtube.com/watch?v=QtlK1E6X5PQ) `19:12` _FlutterLDN_
+* [**Drinking the Flutter Coolaid - Simon Lightfoot**](https://www.youtube.com/watch?v=y_EGcVO4Qxc) `1:27:10` _CodingWithMitch_
+* [**[Webinar] Unidirectional data flow in Flutter**](https://www.youtube.com/watch?v=PeO5pFfJmqg) `52:56` _Flutter Philippines_
 
 
 # Flutter 1.0 
