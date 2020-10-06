@@ -68,7 +68,8 @@ GDG Cincinnati_
 
 
 ## 2018
-
+* [**The Boring Flutter Development Show - Andrew and Filip**](https://www.youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
+* [**Build Native Mobile Apps with Flutter Course - FREE from UDACITY**](https://classroom.udacity.com/courses/ud905)
 * [**Matt Sullivan - Flutter in Action**](https://youtu.be/4LNMsYg76vg) `52:37`
 * [**Brian Egan & Filip Hracek - Practical Rx with Flutter**](https://youtu.be/7O1UO5rEpRc) ` 27:22`
 * [**Nitya Narasimhan - Get Animated with Flutter!**](https://youtu.be/rs9TtjPsV7Q) `42:02`
